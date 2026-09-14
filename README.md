@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aarushi1504/leetcode2026/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |
@@ -65,8 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
