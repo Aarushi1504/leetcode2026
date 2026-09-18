@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aarushi1504/leetcode2026/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Aarushi1504/leetcode2026/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aarushi1504/leetcode2026/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0344-reverse-string) |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aarushi1504/leetcode2026/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aarushi1504/leetcode2026/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
