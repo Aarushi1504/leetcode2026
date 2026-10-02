@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aarushi1504/leetcode2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aarushi1504/leetcode2026/tree/master/0035-search-insert-position) |
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Aarushi1504/leetcode2026/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aarushi1504/leetcode2026/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Aarushi1504/leetcode2026/tree/master/1232-check-if-it-is-a-straight-line) |
 ## String Matching
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aarushi1504/leetcode2026/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aarushi1504/leetcode2026/tree/master/0021-merge-two-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Aarushi1504/leetcode2026/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
