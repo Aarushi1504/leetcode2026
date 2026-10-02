@@ -9,7 +9,7 @@ public:
             int x = coordinates[i][0];
             int y = coordinates[i][1];
             if ((x2 - x1) * (y - y1) != (x - x1) * (y2 - y1))
-                return false;
+               return false;
         }
         return true;
     }
