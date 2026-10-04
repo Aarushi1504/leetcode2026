@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aarushi1504/leetcode2026/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Aarushi1504/leetcode2026/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aarushi1504/leetcode2026/tree/master/1232-check-if-it-is-a-straight-line) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aarushi1504/leetcode2026/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
