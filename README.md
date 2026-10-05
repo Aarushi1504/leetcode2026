@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aarushi1504/leetcode2026/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0434-number-of-segments-in-a-string) |
+| [3136-valid-word](https://github.com/Aarushi1504/leetcode2026/tree/master/3136-valid-word) |
 ## Hash Table
 |  |
 | ------- |
