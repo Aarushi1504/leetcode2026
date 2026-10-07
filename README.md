@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Aarushi1504/leetcode2026/tree/master/0036-valid-sudoku) |
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aarushi1504/leetcode2026/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aarushi1504/leetcode2026/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aarushi1504/leetcode2026/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aarushi1504/leetcode2026/tree/master/0021-merge-two-sorted-lists) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Aarushi1504/leetcode2026/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 ## Matrix
 |  |
 | ------- |
@@ -123,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
