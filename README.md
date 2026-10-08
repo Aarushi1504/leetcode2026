@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0434-number-of-segments-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aarushi1504/leetcode2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aarushi1504/leetcode2026/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3136-valid-word](https://github.com/Aarushi1504/leetcode2026/tree/master/3136-valid-word) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aarushi1504/leetcode2026/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aarushi1504/leetcode2026/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aarushi1504/leetcode2026/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
