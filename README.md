@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/Aarushi1504/leetcode2026/tree/master/0724-find-pivot-index) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aarushi1504/leetcode2026/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Binary Search
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Aarushi1504/leetcode2026/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
