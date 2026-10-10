@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aarushi1504/leetcode2026/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Aarushi1504/leetcode2026/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aarushi1504/leetcode2026/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aarushi1504/leetcode2026/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Aarushi1504/leetcode2026/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0434-number-of-segments-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aarushi1504/leetcode2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aarushi1504/leetcode2026/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aarushi1504/leetcode2026/tree/master/0102-binary-tree-level-order-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Aarushi1504/leetcode2026/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
