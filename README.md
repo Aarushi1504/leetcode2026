@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aarushi1504/leetcode2026/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aarushi1504/leetcode2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aarushi1504/leetcode2026/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Aarushi1504/leetcode2026/tree/master/0036-valid-sudoku) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aarushi1504/leetcode2026/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aarushi1504/leetcode2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Aarushi1504/leetcode2026/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Aarushi1504/leetcode2026/tree/master/0036-valid-sudoku) |
