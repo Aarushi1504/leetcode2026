@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Aarushi1504/leetcode2026/tree/master/0724-find-pivot-index) |
+| [0748-shortest-completing-word](https://github.com/Aarushi1504/leetcode2026/tree/master/0748-shortest-completing-word) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aarushi1504/leetcode2026/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aarushi1504/leetcode2026/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/Aarushi1504/leetcode2026/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/Aarushi1504/leetcode2026/tree/master/0748-shortest-completing-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aarushi1504/leetcode2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aarushi1504/leetcode2026/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3136-valid-word](https://github.com/Aarushi1504/leetcode2026/tree/master/3136-valid-word) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aarushi1504/leetcode2026/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/Aarushi1504/leetcode2026/tree/master/0748-shortest-completing-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aarushi1504/leetcode2026/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Math
 |  |
