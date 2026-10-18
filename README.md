@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aarushi1504/leetcode2026/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Aarushi1504/leetcode2026/tree/master/0434-number-of-segments-in-a-string) |
+| [0709-to-lower-case](https://github.com/Aarushi1504/leetcode2026/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aarushi1504/leetcode2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aarushi1504/leetcode2026/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3136-valid-word](https://github.com/Aarushi1504/leetcode2026/tree/master/3136-valid-word) |
