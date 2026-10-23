@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aarushi1504/leetcode2026/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Aarushi1504/leetcode2026/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Aarushi1504/leetcode2026/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aarushi1504/leetcode2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aarushi1504/leetcode2026/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Aarushi1504/leetcode2026/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 ## Matrix
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aarushi1504/leetcode2026/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aarushi1504/leetcode2026/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
