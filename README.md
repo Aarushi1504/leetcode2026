@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Aarushi1504/leetcode2026/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Aarushi1504/leetcode2026/tree/master/0724-find-pivot-index) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aarushi1504/leetcode2026/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aarushi1504/leetcode2026/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/Aarushi1504/leetcode2026/tree/master/0748-shortest-completing-word) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aarushi1504/leetcode2026/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Aarushi1504/leetcode2026/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aarushi1504/leetcode2026/tree/master/1232-check-if-it-is-a-straight-line) |
 ## String Matching
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aarushi1504/leetcode2026/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -104,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Aarushi1504/leetcode2026/tree/master/0461-hamming-distance) |
 ## Recursion
