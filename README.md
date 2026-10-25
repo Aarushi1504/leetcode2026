@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Aarushi1504/leetcode2026/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Aarushi1504/leetcode2026/tree/master/0748-shortest-completing-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aarushi1504/leetcode2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1154-day-of-the-year](https://github.com/Aarushi1504/leetcode2026/tree/master/1154-day-of-the-year) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Aarushi1504/leetcode2026/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aarushi1504/leetcode2026/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3136-valid-word](https://github.com/Aarushi1504/leetcode2026/tree/master/3136-valid-word) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
+| [1154-day-of-the-year](https://github.com/Aarushi1504/leetcode2026/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aarushi1504/leetcode2026/tree/master/1232-check-if-it-is-a-straight-line) |
 ## String Matching
 |  |
