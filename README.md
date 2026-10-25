@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aarushi1504/leetcode2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aarushi1504/leetcode2026/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Aarushi1504/leetcode2026/tree/master/0036-valid-sudoku) |
+| [0213-house-robber-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aarushi1504/leetcode2026/tree/master/0070-climbing-stairs) |
+| [0213-house-robber-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Aarushi1504/leetcode2026/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
