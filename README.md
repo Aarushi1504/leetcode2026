@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aarushi1504/leetcode2026/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Aarushi1504/leetcode2026/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Aarushi1504/leetcode2026/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
 | [1154-day-of-the-year](https://github.com/Aarushi1504/leetcode2026/tree/master/1154-day-of-the-year) |
@@ -197,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aarushi1504/leetcode2026/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aarushi1504/leetcode2026/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aarushi1504/leetcode2026/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aarushi1504/leetcode2026/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
