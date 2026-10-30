@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aarushi1504/leetcode2026/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aarushi1504/leetcode2026/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/Aarushi1504/leetcode2026/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Aarushi1504/leetcode2026/tree/master/0461-hamming-distance) |
 ## Recursion
 |  |
@@ -189,10 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aarushi1504/leetcode2026/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Aarushi1504/leetcode2026/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/Aarushi1504/leetcode2026/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aarushi1504/leetcode2026/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Aarushi1504/leetcode2026/tree/master/0397-integer-replacement) |
 ## Queue
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aarushi1504/leetcode2026/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Aarushi1504/leetcode2026/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
