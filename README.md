@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aarushi1504/leetcode2026/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aarushi1504/leetcode2026/tree/master/0268-missing-number) |
+| [0463-island-perimeter](https://github.com/Aarushi1504/leetcode2026/tree/master/0463-island-perimeter) |
 | [0705-design-hashset](https://github.com/Aarushi1504/leetcode2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aarushi1504/leetcode2026/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Aarushi1504/leetcode2026/tree/master/0724-find-pivot-index) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aarushi1504/leetcode2026/tree/master/0036-valid-sudoku) |
+| [0463-island-perimeter](https://github.com/Aarushi1504/leetcode2026/tree/master/0463-island-perimeter) |
 ## Hash Function
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aarushi1504/leetcode2026/tree/master/0102-binary-tree-level-order-traversal) |
+| [0463-island-perimeter](https://github.com/Aarushi1504/leetcode2026/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Aarushi1504/leetcode2026/tree/master/0397-integer-replacement) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Aarushi1504/leetcode2026/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
